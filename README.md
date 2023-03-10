@@ -1,2 +1,2 @@
-# Microsoft-MovieData-Analysis
-Mock analysis of Movie Data ~ Moringa
+# MS-Movie-Analysis
+Mock Analysis of Movie Data for Microsoft ~ Moringa
