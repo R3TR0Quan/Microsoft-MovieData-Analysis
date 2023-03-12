@@ -1,6 +1,6 @@
 # MS-Movie-Analysis
 **Mock Analysis of Movie Data for Microsoft ~ Moringa**
-**AUTHOR**: .[Joshua Rwanda].(mailto:joshuarwanda@gmail.com)
+**AUTHOR**: [Joshua Rwanda](mailto:joshuarwanda@gmail.com)
 
 ## Overview
 
@@ -15,17 +15,17 @@ There are many different ways of classifying movies. Even more metrics for measu
 
 ## Data
 
-The data used in this analysis was obtained from various sources on the web. Such as the popular movie review site .[IMDB].(https://www.imdb.com/)
+The data used in this analysis was obtained from various sources on the web. Such as the popular movie review site [IMDB](https://www.imdb.com/)
 
 ## Methods.
 
-This analysis uses Descriptive analysis to analyse trends and patterns.
+This analysis uses Descriptive analysis to show trends and patterns.
 
 ## Findings
 
-Findings are documented in the .[presentation].(https://github.com/R3TR0Quan/Microsoft-MovieData-Analysis/presentation.pdf) file included in this repository. They include a charts of the most popular classifications of movies and trends in ratings.
+Findings are documented in the [presentation](https://github.com/R3TR0Quan/Microsoft-MovieData-Analysis/presentation.pdf) file included in this repository. They include a charts of the most popular classifications of movies and trends in ratings.
 
 ## Conclusion and Next Steps.
 
-There are 3 concrete business findings documented in the analysis. They can also be viewed from the .[presentation].(https://github.com/R3TR0Quan/Microsoft-MovieData-Analysis/presentation.pdf) file.  
+There are 3 concrete business findings documented in the analysis. They can also be viewed from the [presentation](https://github.com/R3TR0Quan/Microsoft-MovieData-Analysis/presentation.pdf) file.  
 The Data used contains a lot of other useful information that can be explored further to yield deeper insight into the industry.
